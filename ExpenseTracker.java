@@ -13,7 +13,7 @@ class Expense {
         this.category = category;
         this.description = description;
         this.amount = amount;
-    }
+    }y
 
     public String toString() {
         return String.format("Date: %s | Category: %s | Description: %s | Amount: %.2f",
